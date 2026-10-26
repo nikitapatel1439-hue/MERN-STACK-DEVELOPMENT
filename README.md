@@ -1,6 +1,6 @@
-# Pranjal — Unique MERN Practicals 08–13
+# Nikita — Unique MERN Practicals 0–13
 
-These are six distinct educational projects with separate concepts and implementations.
+These are thirteen distinct educational projects with separate concepts and implementations.
 
 ## Setup
 - Install Node.js 20+ and MongoDB Community Server for database-backed practicals.
